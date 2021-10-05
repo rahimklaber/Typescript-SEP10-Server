@@ -4,6 +4,7 @@
     "sourceMap": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "esModuleInterop": true,
     "strict": true,
     "noImplicitAny": false,
     "strictPropertyInitialization": false,

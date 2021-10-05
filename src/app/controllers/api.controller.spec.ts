@@ -5,7 +5,7 @@ import { strictEqual } from 'assert';
 import { Context, createController, getHttpMethod, getPath, isHttpResponseOK } from '@foal/core';
 
 // App
-import { ApiController } from './api.controller';
+import { ApiController } from './sep10.controller';
 
 describe('ApiController', () => {
 
